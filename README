@@ -5,3 +5,11 @@ will return to the current day.
 The moon phase calculation is a bit shoddy and doesn't account for time zones.
 
 The moon image really turned out better than I thought it would.
+
+Useful references:
+
+http://www.ben-daglish.net/moon.shtml
+http://eclipse.gsfc.nasa.gov/phase/phases1901.html
+http://en.wikipedia.org/wiki/File:Moon_phases_en.jpg
+http://en.wikipedia.org/wiki/File:FullMoon2010.jpg
+http://en.wikipedia.org/wiki/Midpoint_circle_algorithm
