@@ -1,0 +1,7 @@
+This is a pebble moonphase app.  It starts at the current moon phase and you
+can view coming/previous moon phases with the up/down buttons.  Pressing select
+will return to the current day.
+
+The moon phase calculation is a bit shoddy and doesn't account for time zones.
+
+The moon image really turned out better than I thought it would.
