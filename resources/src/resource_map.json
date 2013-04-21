@@ -1,0 +1,17 @@
+{
+ "friendlyVersion": "moon1",
+ "versionDefName": "SOMETHINGSIGNIFICANT",
+ "media": [
+	{
+		"type": "png",
+		"defName": "IMAGE_MENU_ICON",
+		"file": "moonphases-icon.png"
+	},
+	{
+		"type": "png",
+		"defName": "THE_MOON",
+		"file": "moon.png",
+		"source-image": "http://en.wikipedia.org/wiki/File:FullMoon2010.jpg"
+	}
+	  ]
+}
